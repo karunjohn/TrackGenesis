@@ -29,7 +29,7 @@ const ProductPage = () => {
       {/* Header */}
       <Header />
 
-      <div className="container-fluid" style={{backgroundColor:'#FFFBEB'}}>
+      <div className="container-fluid" style={{backgroundColor:'#FAF0E7'}}>
         <br/><br/>
         <div className="row">
           <div className="col-sm-7 col-md-7 col-lg-7 col-xl-7" style={{ display: 'flex', justifyContent: 'center' }}>

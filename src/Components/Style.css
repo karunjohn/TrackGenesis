@@ -1,0 +1,15 @@
+.carousel .product-card-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .carousel .product-card-wrapper .product-card-image {
+    max-width: 100px; /* Adjust the size as per your requirement */
+    margin: 0 auto; /* Center the image horizontally */
+  }
+
+  .card {
+    box-shadow: 0 10px 15px rgba(22, 139, 197, 0.2);
+    padding:5px;
+  }
+  

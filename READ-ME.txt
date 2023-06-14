@@ -10,11 +10,11 @@ LUXORA is a simulated e-commerce website that showcases various products. Users 
 
 1. Clone the repository:
 
-  git clone https://github.com/your-username/project-name.git
+  git clone https://github.com/karunjohn/TrackGenesis.git
 
 2. Navigate to the project directory:
 
-  cd project-name
+  cd TrackGenesis
 
 3. Install the dependencies:
 
